@@ -1,7 +1,7 @@
 JADE
 ====
 
-current package url: https://github.com/jade-package/JADE
+current package url: https://github.com/jade-package
 
 ----
 
@@ -27,6 +27,21 @@ addtional interface to Molpro, Q-CHEM et al., spin orbital coupling, ONIOM/QM/MM
 
 
 This code is mainly developed by Prof. Dr. Zhenggang Lan and co-workers at QIBEBT, Qingdao, China, in recent years.
+Contact info:
+Prof. Dr. Zhenggang Lan
+e-mail - lanzg#at#qibebt.ac.cn
+
+---- 
+
+Main Contributors at the current stage
+
+Likai Du (dulk#at#qibebt.ac.cn or dulikai#at#gmail.com)
+Zhenggang Lan\* (lanzg#at#qibebt.ac.cn)
+
+----
+
+
+
 
 
 
